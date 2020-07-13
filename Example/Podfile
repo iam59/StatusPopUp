@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'StatusPopUp_Example' do
+  pod 'StatusPopUp', :path => '../'
+
+  target 'StatusPopUp_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

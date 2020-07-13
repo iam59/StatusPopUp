@@ -1,0 +1,29 @@
+# StatusPopUp
+
+[![CI Status](https://img.shields.io/travis/iam59/StatusPopUp.svg?style=flat)](https://travis-ci.org/iam59/StatusPopUp)
+[![Version](https://img.shields.io/cocoapods/v/StatusPopUp.svg?style=flat)](https://cocoapods.org/pods/StatusPopUp)
+[![License](https://img.shields.io/cocoapods/l/StatusPopUp.svg?style=flat)](https://cocoapods.org/pods/StatusPopUp)
+[![Platform](https://img.shields.io/cocoapods/p/StatusPopUp.svg?style=flat)](https://cocoapods.org/pods/StatusPopUp)
+
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+## Installation
+
+StatusPopUp is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'StatusPopUp'
+```
+
+## Author
+
+iam59, iamrajusivasankar59@gmail.com
+
+## License
+
+StatusPopUp is available under the MIT license. See the LICENSE file for more info.

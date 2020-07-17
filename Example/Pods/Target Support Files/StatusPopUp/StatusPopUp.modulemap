@@ -1,0 +1,6 @@
+framework module StatusPopUp {
+  umbrella header "StatusPopUp-umbrella.h"
+
+  export *
+  module * { export * }
+}

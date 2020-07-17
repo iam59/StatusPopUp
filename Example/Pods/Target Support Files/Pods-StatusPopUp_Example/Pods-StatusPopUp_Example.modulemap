@@ -1,0 +1,6 @@
+framework module Pods_StatusPopUp_Example {
+  umbrella header "Pods-StatusPopUp_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

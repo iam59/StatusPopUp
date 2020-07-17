@@ -1,0 +1,16 @@
+PODS:
+  - StatusPopUp (0.1.0)
+
+DEPENDENCIES:
+  - StatusPopUp (from `../`)
+
+EXTERNAL SOURCES:
+  StatusPopUp:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  StatusPopUp: 747a82521878808bf77e757a9f460da25e2440e6
+
+PODFILE CHECKSUM: 68d3ea1696e2b787a20e3270e496d2e3a6f5bede
+
+COCOAPODS: 1.9.3
